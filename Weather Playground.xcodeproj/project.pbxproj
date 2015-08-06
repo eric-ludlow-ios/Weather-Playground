@@ -114,9 +114,9 @@
 			children = (
 				7167C6951950376400FD8F55 /* WPAppDelegate.h */,
 				7167C6961950376400FD8F55 /* WPAppDelegate.m */,
-				7167C6981950376400FD8F55 /* Main.storyboard */,
 				7167C69B1950376400FD8F55 /* WPViewController.h */,
 				7167C69C1950376400FD8F55 /* WPViewController.m */,
+				7167C6981950376400FD8F55 /* Main.storyboard */,
 				7167C69E1950376400FD8F55 /* Images.xcassets */,
 				7167C68D1950376400FD8F55 /* Supporting Files */,
 			);
@@ -457,6 +457,7 @@
 				7167C6B71950376400FD8F55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7167C6B81950376400FD8F55 /* Build configuration list for PBXNativeTarget "Weather PlaygroundTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				7167C6BA1950376400FD8F55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
